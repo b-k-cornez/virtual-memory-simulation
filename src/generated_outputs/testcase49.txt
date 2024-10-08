@@ -1,0 +1,25 @@
+
+* TLB Statistics *
+total accesses: 0
+hits: 0
+misses: 0
+
+* Page Table Statistics *
+total accesses: 0
+page faults: 0
+page faults with dirty bit: 0
+
+* Cache Statistics *
+total accesses: 0
+hits: 0
+misses: 0
+total reads: 0
+read hits: 0
+total writes: 0
+write hits: 0
+
+TLB Entries (Valid-Bit Dirty-Bit VPN PPN)
+0 0 - -
+0 0 - -
+
+Page Table Entries (Present-Bit Dirty-Bit VPN PPN)

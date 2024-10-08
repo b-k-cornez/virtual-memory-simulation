@@ -1,0 +1,51 @@
+Testcase,points,verbose
+testcase31,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase40,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase43,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase23,0,FAIL
+testcase29,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase03,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase04,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase26,0,FAIL
+testcase38,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase06,3,PASS
+testcase05,3,PASS
+testcase20,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase02,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase18,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase14,3,PASS
+testcase46,0,Page Table: FAIL TLB: FAIL Cache: FAIL
+testcase24,0,FAIL
+testcase45,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase34,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase15,3,PASS
+testcase12,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase32,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase21,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase30,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase42,0,Page Table: FAIL TLB: FAIL Cache: FAIL
+testcase09,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase36,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase10,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase01,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase47,0,Page Table: FAIL TLB: FAIL Cache: FAIL
+testcase25,0,FAIL
+testcase49,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase35,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase28,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase07,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase50,0,Page Table: FAIL TLB: FAIL Cache: FAIL
+testcase17,0,Page Table: FAIL TLB: FAIL Cache: FAIL
+testcase08,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase22,3,PASS
+testcase33,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase27,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase48,0,Page Table: FAIL TLB: FAIL Cache: FAIL
+testcase39,0,Page Table: FAIL TLB: FAIL Cache: FAIL
+testcase16,3,PASS
+testcase44,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase13,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase11,0,Page Table: FAIL TLB: FAIL Cache: FAIL
+testcase37,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase41,3,Page Table: PASS TLB: PASS Cache: PASS
+testcase19,3,Page Table: PASS TLB: PASS Cache: PASS
